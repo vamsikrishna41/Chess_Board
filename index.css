@@ -1,0 +1,33 @@
+h1{
+    color: cadetblue;
+}
+body {
+    background: #d60000;
+    
+  }
+  .chessboard {
+    text-align: center;
+      width: 640px;
+      height: 640px;
+      margin: 0px auto;
+      vertical-align: center;
+  
+  }
+  .black {
+      float: left;
+      width: 80px;
+      height: 80px;
+      background-color:black;
+      text-align:center;
+      display: table-cell;
+      vertical-align:middle;
+  }
+  .white {
+      float: left;
+      width: 80px;
+      height: 80px;
+      background-color: beige;
+      text-align:center;
+      display: table-cell;
+      vertical-align:middle;
+  }
